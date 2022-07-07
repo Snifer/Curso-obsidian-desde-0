@@ -26,5 +26,8 @@ projectTracker(
     "#projects" //change tag if you need
 )
 ```
+[![Suscribete al Boletin](https://i.imgur.com/rKxYGJv.png)](https://www.cerebroerrante.com)
+
+
 
 [Original Post](https://forum.obsidian.md/t/project-tracking-metaedit-dataview-and-kanban/19343)
