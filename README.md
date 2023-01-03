@@ -12,7 +12,9 @@ Puedes descargar el vault [Aqui](https://github.com/Snifer/Curso-obsidian-desde-
 
 
 # Obsidian search Extension
+
 Extension -> https://github.com/Snifer/Curso-obsidian-desde-0/blob/main/dist-chromium-osbdian.zip
+
 Github Repo: https://github.com/jk-oster/obsidian-search-for-web
 
 # EN CONSTRUCCION
